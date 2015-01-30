@@ -1,0 +1,20 @@
+Dom:
+make a fish which swims by pressing left and right arrow keys
+make a scrolling system which stops scrolling at a certain point
+
+Adam:
+spritesheet for fish with A TRANSPARENT BACKGROUND
+a 1600x1200 background
+a fishing line with a hook on it
+
+Stephen:
+a "getting stabbed by a fishing hook" sound effect
+
+IMPORTANT INFORMATION
+ONLY USE THESE COLOURS!!!
+three shades of green
+R:180 G:175 B:130 (light)
+R:150 G:150 B:80 (middle)
+R:110 G:110 B:55 (dark)
+and an orange
+R:255 G:125 B:40
